@@ -1,0 +1,16 @@
+57600
+18
+Even
+2
+1 2 5 9
+
+
+
+
+
+baudrate
+bytesize
+parity
+stopbits
+number of sequences
+5 12 34 ...

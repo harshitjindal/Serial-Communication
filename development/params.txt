@@ -1,0 +1,16 @@
+COM1
+57600
+18
+Even
+2
+1 2 5 9
+
+
+
+
+port name in string
+baudrate
+bytesize
+parity
+stopbits
+sequence indices
